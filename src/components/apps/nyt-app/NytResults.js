@@ -1,8 +1,6 @@
 import React from 'react';
 
 const NytResults = (props) => {
-  
-  
   return (
     <div>
       {props.results.map(result => {
